@@ -1,6 +1,6 @@
-# mcp-rag MCP server
+# mcp-rag
 
-RAG in MCP. This is a example server to show how to use the MCP server for vanilla RAG.
+RAG in [MCP](https://modelcontextprotocol.io/). This is a example MCP server for vanilla RAG.
 
 [![RAG explained](https://img.youtube.com/vi/L8DXQJMJayE/0.jpg)](https://www.youtube.com/watch?v=L8DXQJMJayE)
 
