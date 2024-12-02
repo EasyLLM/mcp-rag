@@ -1,0 +1,21 @@
+[project]
+name = "mcp-rag"
+version = "0.1.0"
+description = "Vanilla RAG on MCP"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+ "llama-index>=0.12.2",
+ "llama-index-embeddings-azure-openai>=0.3.0",
+ "mcp>=1.0.0",
+]
+[[project.authors]]
+name = "KarthikeyanVijayanEasyLLM"
+email = "karthikeyan.vijayan@easyllm.tech"
+
+[build-system]
+requires = [ "hatchling",]
+build-backend = "hatchling.build"
+
+[project.scripts]
+mcp-rag = "mcp_rag:main"

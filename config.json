@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "mcp-rag": {
+            "command": "uvx",
+            "args": ["mcp-rag", "--repository", "https://github.com/EasyLLM/mcp-rag"],
+            "env": {
+                "OPENAI_API_KEY": "<openai_api_key>",
+                "FOLDER_PATH": "<folder_path>"
+            }
+        }
+    }
+}
