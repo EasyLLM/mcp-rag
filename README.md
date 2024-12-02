@@ -2,8 +2,8 @@
 
 RAG in [MCP](https://modelcontextprotocol.io/). This is a example MCP server for vanilla RAG.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L8DXQJMJayE?si=nuVdrY_ZUL0mNaNC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-</iframe>
+## Concepts
+[RAG Explained](https://www.youtube.com/watch?v=L8DXQJMJayE)
 
 ## Tools
 
